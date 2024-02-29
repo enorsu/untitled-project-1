@@ -1,0 +1,25 @@
+
+
+.btn {
+    padding: 10px 15px;
+    background-color: white;
+    transition-duration: 300ms;
+}
+
+.btn:hover {
+    background-color: green;
+}
+
+.btn:active {
+    transition: 100ms;
+    padding: 5px 10px;
+
+}
+
+.controls {
+    padding: 2px 2px;
+    display: inline-block;
+    border: 2px solid;
+    
+    border-radius: 5px;
+}
